@@ -5,7 +5,7 @@ MX logo
 ## Table of Contents
 1. [General](#general)
 2. [Obtaining and Installing an ISO](#obtaining-and-installing-an-iso)	
-3. [Configuration and customization](#configuration-and-customization)	
+3. [Configuration and Customization](#configuration-and-customization)	
 4. [Security](#security)	
 5. [System](#system)	
 
@@ -65,7 +65,7 @@ That happens sometimes, especially with personal snapshots. Press F4 to get a te
 minstall-pkexec
 ```
 
-## Configuration and customization
+## Configuration and Customization
 
 ### I hate the panel on the side! How can I move it somewhere where I want it?
 The MX Tweak tool makes moving the panel to your preferred position very easy.
